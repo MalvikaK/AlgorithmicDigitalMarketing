@@ -71,3 +71,18 @@ The search feature also lists the products similar to the items being searched<b
   ![](Streamlit/Streamlit3.png)<br>
   
   
+  Heroku Link for deployment:<br>
+  https://senoritaecommerce.herokuapp.com/ 
+  <br>
+  For A/B testing, run Streamlit app Locally:<br>
+  Stepts to recreate:<br>
+  Go to Streamlit Location<br>
+  Streamlit run project.py<br>
+  For SVD Testing -Use User ID 245642504 And select Buy option<br>
+  a text file will be created called SvdBuy which has the Incremented value that shows the EventType BUY for that User<br>
+  Similarly, For NCF Testing -Use User ID 300016375 And select any option from dropdown<br>
+  a text file will be created called ncfBuy/ncfCart which has the Incremented value that shows the EventType for that User<br>
+  <br>
+  The marketing team can them store these values in their db and conduct further analysis to analyse the Users behaviour which would be helpful for promotions and     other such marketing strategies
+  
+  
