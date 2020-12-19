@@ -1,18 +1,18 @@
-**FINAL PROJECT**
-*SENORITA STORE*
+**FINAL PROJECT**<br>
+*SENORITA STORE*<br>
 Senorita's E-commerce department who have a large customer base using different recommendation systems to provide suggestions to the customers.They want to build search and recommendation engines along with analytical dashboards<br>
 To illustrate the value of data-driven analytics to derive meaningful insights, to ease customer shopping experience, and to make recommendations for users. For marketers and company-heads to understand patterns of sales and ways to target the customers and analyze sales.This project will help Business Analyst, and Business Strategist to make business decisions which will help Senorita maximize its sales. Also to enhance the customer's shopping experience.
 
 
-**Project Proposal**
+**Project Proposal**<br>
 
-**Report**
+**Report**<br>
 
 Claat Link: https://codelabs-preview.appspot.com/?file_id=184qVt5hNiCfuIXLvmdgEHqjW3zn2LsPVIS6TX7nfcB4#1 <br>
-Google Docs: https://docs.google.com/document/d/1GVj5-7aUGGp22Bq0jwXt-D7qibAYwDBuZ45fRTGxCRA/edit#heading=h.mmt3dpnuogwo
-**Analytics Dashboard**
-
-
+Google Docs: https://docs.google.com/document/d/1GVj5-7aUGGp22Bq0jwXt-D7qibAYwDBuZ45fRTGxCRA/edit#heading=h.mmt3dpnuogwo <br>
+**Analytics Dashboard**<br>
+![](TableauDashboards/MarketingAnalytics.png)<br>
+![](TableauDashboards/ProductAnalysis.png)<br>
 
 
 
