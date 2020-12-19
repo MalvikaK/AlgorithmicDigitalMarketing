@@ -72,9 +72,9 @@ The search feature also lists the products similar to the items being searched<b
   
   
   Heroku Link for deployment:<br>
-  https://senoritaecommerce.herokuapp.com/ 
+  https://senoritaecommerce.herokuapp.com/<br>
   <br>
-  For A/B testing, run Streamlit app Locally:<br>
+  For A/B testing, run Streamlit app Locally:<br> http://localhost:8501/<br>
   Stepts to recreate:<br>
   Go to Streamlit Location<br>
   Streamlit run project.py<br>
