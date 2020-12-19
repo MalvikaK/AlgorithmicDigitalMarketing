@@ -8,7 +8,8 @@ To illustrate the value of data-driven analytics to derive meaningful insights, 
 
 **Report**
 
-
+Claat Link: https://codelabs-preview.appspot.com/?file_id=184qVt5hNiCfuIXLvmdgEHqjW3zn2LsPVIS6TX7nfcB4#1
+Google Docs: https://docs.google.com/document/d/1GVj5-7aUGGp22Bq0jwXt-D7qibAYwDBuZ45fRTGxCRA/edit#heading=h.mmt3dpnuogwo
 **Analytics Dashboard**
 
 
