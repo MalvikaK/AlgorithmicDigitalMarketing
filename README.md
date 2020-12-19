@@ -57,12 +57,15 @@ The search feature also lists the products similar to the items being searched<b
   Website Navigation<br>
   1.Home Page<br>
    Login<br>
+    ![](Streamlit/Streamlit1.png)<br>
     SVD Model<br>
+    ![](Streamlit/Streamlit2.png)<br>
     Ncf Model<br>
+  
   
   
   2.Search Page<br>
    Search for items to show similar Images:<br>
-  
+  ![](Streamlit/Streamlit3.png)<br>
   
   
