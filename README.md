@@ -46,7 +46,7 @@ A recommender system predicts the rating value of a user-item combination with a
 We use the user-item Interaction Data, such as ratings and apply various modelling techniques that uses collaborative filtering to predict user’s preference.<br>
 We have executed 2 Recommendation models<br>
 1. SVD- Surprise Singular Value Decomposition<br>
-2. NCF<br>
+2. NCF - Neural Collaborative Filtering<br>
 We have computed the evaluation metrics of both these models<br>
 Based on the predicted ratings we recommended popular items to a particular user.<br>
 
@@ -60,9 +60,9 @@ The search feature also lists the products similar to the items being searched<b
   1.Home Page<br>
    Login<br>
     ![](Streamlit/Streamlit1.png)<br>
-    SVD Model<br>
+    SVD Model<br>Use UserID -245642504
     ![](Streamlit/Streamlit2.png)<br>
-    Ncf Model<br>
+    Ncf Model<br>Use UserID- 300016375
    ![](Streamlit/Streamlit4.png)<br>
   
   
