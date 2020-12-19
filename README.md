@@ -61,7 +61,7 @@ The search feature also lists the products similar to the items being searched<b
     SVD Model<br>
     ![](Streamlit/Streamlit2.png)<br>
     Ncf Model<br>
-  
+   ![](Streamlit/Streamlit4.png)<br>
   
   
   2.Search Page<br>
